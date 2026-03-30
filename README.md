@@ -5,7 +5,7 @@
 
 - Este projeto foi desenvolvido como parte da extensão curricularizada do curso de Análise e Desenvolvimento de Sistemas.
 
-O objetivo é oferecer uma solução simples e eficiente para o controle de entradas financeiras, especialmente pagamentos realizados via Pix e dinheiro, aplicada à realidade da loja Myjuboutique.
+O objetivo é oferecer uma solução simples e eficiente para o controle de entradas financeiras, especialmente pagamentos realizados via Pix e dinheiro, aplicada à realidade da Igreja Metodista Wesleyana do Parque Ipê.
 
 - O sistema permite registrar, organizar e visualizar os dados financeiros, facilitando a conferência e a tomada de decisões.
 
@@ -36,19 +36,25 @@ O objetivo é oferecer uma solução simples e eficiente para o controle de entr
 
 # 🏢Contexto de Aplicação
 
-O sistema foi desenvolvido para a loja:
+O sistema foi desenvolvido para a:
 
-Myjuboutique
+Igreja Metodista Wesleyana do Parque Ipê
 
-Tipo: Comércio
+Tipo: Igreja
 Público: Diverso
 
  - A aplicação surgiu da necessidade de melhorar o controle financeiro, que antes era realizado de forma manual.
+<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/05b62ede-bca7-4a90-ab2e-d16f2ba96201" />
+<img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/bbc4606b-de29-43f6-9234-dbc4f26d75c8" />
+<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/2d90f5a8-4056-4d7a-bb13-84f2725ead96" />
+<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/755e4392-5942-4db8-acff-2f1c441efac8" />
+<img width="1592" height="686" alt="image" src="https://github.com/user-attachments/assets/301fed23-aaaa-4639-b834-40afaf1263e1" />
+<img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/3dc94d21-b41d-426f-9609-07f2fd3a0043" />
 
-<img width="1877" height="924" alt="image" src="https://github.com/user-attachments/assets/2d700a72-2259-421e-be57-95bf1304ded4" />
-<img width="1872" height="934" alt="image" src="https://github.com/user-attachments/assets/f8cae977-35f5-4ffa-b888-12a41914584c" />
-<img width="1876" height="926" alt="image" src="https://github.com/user-attachments/assets/cb2adbed-d8ce-4520-8bf7-762e485394fa" />
-<img width="1877" height="927" alt="image" src="https://github.com/user-attachments/assets/b36242cb-47ce-407d-a73d-c16caa9d2c9e" />
+
+
+
+
 
 
 
