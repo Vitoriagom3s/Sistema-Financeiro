@@ -12,7 +12,7 @@ O objetivo é oferecer uma solução simples e eficiente para o controle de entr
 # 🚀 Funcionalidades
 - Cadastro de entradas financeiras
 - Identificação do contribuinte
-- Classificação por tipo (Pix ou Dinheiro)
+- Classificação por entrada
 - Dashboard com resumo financeiro
 - Filtro por período (mês)
 - Status de conferência (pendente/conferido)
@@ -44,19 +44,14 @@ Tipo: Igreja
 Público: Diverso
 
  - A aplicação surgiu da necessidade de melhorar o controle financeiro, que antes era realizado de forma manual.
-<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/05b62ede-bca7-4a90-ab2e-d16f2ba96201" />
-<img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/bbc4606b-de29-43f6-9234-dbc4f26d75c8" />
-<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/2d90f5a8-4056-4d7a-bb13-84f2725ead96" />
-<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/755e4392-5942-4db8-acff-2f1c441efac8" />
-<img width="1592" height="686" alt="image" src="https://github.com/user-attachments/assets/301fed23-aaaa-4639-b834-40afaf1263e1" />
-<img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/3dc94d21-b41d-426f-9609-07f2fd3a0043" />
-
-
-
-
-
-
-
+<img width="1920" height="920" alt="Tela1" src="https://github.com/user-attachments/assets/a034a645-8d40-4c3d-89ca-3948fc53b4fc" />
+<img width="1920" height="920" alt="Tela2" src="https://github.com/user-attachments/assets/09848c8b-3c65-424d-9ed0-c74059c04165" />
+<img width="1920" height="922" alt="Tela3" src="https://github.com/user-attachments/assets/bccd1e05-20be-4266-a03f-0b206a8eaa23" />
+<img width="1920" height="918" alt="Tela4" src="https://github.com/user-attachments/assets/88ff46c3-0165-446c-8ad7-dd6e9db7e686" />
+<img width="1920" height="917" alt="Tela5" src="https://github.com/user-attachments/assets/0e075045-b971-4713-95fa-7f6a1b0dba8e" />
+<img width="1920" height="919" alt="Tela6" src="https://github.com/user-attachments/assets/8816c6cd-343c-4d2a-a148-8bfe27e2e69c" />
+<img width="1616" height="867" alt="Tela7" src="https://github.com/user-attachments/assets/d9952d6f-d7b2-4eec-8b01-d3d4e4b166d3" />
+<img width="1920" height="918" alt="Tela8" src="https://github.com/user-attachments/assets/ad30a39b-c049-41a6-b710-bc5dbc6e15cc" />
 
 
 # ⚙️ Como Executar o Projeto
